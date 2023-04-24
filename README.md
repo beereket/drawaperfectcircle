@@ -16,4 +16,9 @@ Here're some of the project's best features:
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-Usage Run the main.py file. Use the mouse to draw a circle on the screen. The timer will start as soon as the player starts drawing. If the player successfully draws a perfect circle before the timer runs out a congratulatory message will be displayed and the player can play again. If the player fails they will be prompted to try again.
+#Usage
+*   Run the main.py file.
+*   Use the mouse to draw a circle on the screen. 
+*   The timer will start as soon as the player starts drawing. 
+*   If the player successfully draws a perfect circle before the timer runs out a congratulatory message will be displayed and the player can play again. 
+*   If the player fails they will be prompted to try again.
